@@ -41,7 +41,7 @@
 <div class="social">
 <a href="https://www.facebook.com/nafi.king16" class="fa fa-facebook"></a>
 <a href="https://twitter.com/Nafi71340800" class="fa fa-twitter"></a>
-<a href="https://sourcebd.github.io/nafi.com/" class="fa fa-google"></a>
+<a href="https://sourcecodebd.github.io/nafi.com/" class="fa fa-google"></a>
 <a href="https://www.youtube.com/channel/UC0lby0ELE868M02AF-yM9jg" class="fa fa-youtube"></a>
 <a href="https://www.instagram.com/dauntless_nafi" class="fa fa-instagram"></a>
 </div>
